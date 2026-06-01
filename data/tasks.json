@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Comprendre les bases d'Express",
+    "description": "Installer Express, configurer le fichier server.js et lancer le serveur sur le port 5000.",
+    "priority": 1,
+    "done": true
+  },
+  {
+    "id": 2,
+    "title": "Assimiler le rôle des Middlewares",
+    "description": "Comprendre comment fonctionnent CORS et express.json() pour intercepter les requêtes.",
+    "priority": 1,
+    "done": true
+  },
+  {
+    "id": 3,
+    "title": "Tester les requêtes GET et POST",
+    "description": "Créer des routes pour lire la liste des tâches et comprendre la différence avec l'envoi de données.",
+    "priority": 2,
+    "done": false
+  },
+  {
+    "id": 4,
+    "title": "Créer ma première API fonctionnelle",
+    "description": "Mettre en place le système complet (CRUD) pour pouvoir ajouter, modifier et supprimer des tâches.",
+    "priority": 3,
+    "done": false
+  },
+  {
+    "id": 5,
+    "title": "Connecter le frontend au backend",
+    "description": "Utiliser fetch ou axios côté client pour appeler nos nouveaux endpoints et afficher les tâches dynamiquement.",
+    "priority": 2,
+    "done": false
+  }
+]
