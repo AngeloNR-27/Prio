@@ -16,7 +16,7 @@ function Sidebar() {
 
       <div className="flex items-center gap-2 border-b border-gray-300 pl-8 py-4 mb-10">
         <SquareCheckBig className="bg-[#666dfc] p-2 w-8 h-8 rounded-xl text-white" />
-        <span className="font-bold text-[16px]">Prio</span>
+        <span className="font-bold text-[16px] text-gray-950">Prio</span>
       </div>
 
       <nav className="flex flex-col gap-2 text-gray-600">
